@@ -1,4 +1,5 @@
 {
+  "homepage": "https://andrewwio.github.io/basic-pdf-text-extractor/",
   "name": "basic-pdf-text-extractor",
   "version": "1.0.0",
   "description": "",
@@ -16,11 +17,13 @@
   "bugs": {
     "url": "https://github.com/andrewwio/basic-pdf-text-extractor/issues"
   },
-  "homepage": "https://github.com/andrewwio/basic-pdf-text-extractor#readme",
   "dependencies": {
     "express": "^4.18.1",
     "express-fileupload": "^1.4.0",
     "office-text-extractor": "^2.0.0",
     "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
